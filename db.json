@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "ICP5 In-circuit Programmer ",
+        "PN": "DB-DP11226",
+        "MF": "WONDOM"
+      },
+      "MID": "MID20391",
+      "MD": "DB-DP11226 WONDOM ICP5 In-circuit Programmer with UART for PC UI Control & BLE for APP Control. \r\n\r\nProgrammer for ADAU1701 & related series.\r\n\r\nMultiple Purpose ProgrammerSupporting All WONDOM Products That are Integrated with DSPSigmaStudio ProgrammingUART for PC UI ControlBluetooth for APP ControlOnline Firmware Upgrade",
+      "MT": "Electronic Material",
+      "MQNT": 0,
+      "MCost": 1936.03,
+      "MQATG": "#CLASS_0",
+      "ML": "",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20391%2Fmain%2FWONDOM_ICP5_User_Guide_V2.01.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20391/main/Screenshot 2026-11-17 090954.png"
+      ]
+    }
+  ]
+}
